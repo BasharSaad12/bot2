@@ -1,0 +1,6 @@
+owner=482002138218889218
+prefix=3
+game= | 3play
+stayinchannel=true
+songinstatus=false
+token=NTQyMDgwODcyOTI5Njg5NjAy.DzozuA.Hz8rt0iiEUaB-56A4IuHXMW5_DY
